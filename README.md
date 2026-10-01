@@ -26,22 +26,22 @@ La estructura real del repositorio conserva los nombres utilizados durante el de
 Programasion-Bases-de-datos-pl-sql/
 │
 ├── prueba-1/
-│   ├── Readme
-│   ├── caso 1
-│   └── caso 3
+│   ├── README.md
+│   ├── caso-1.sql
+│   └── caso-3.sql
 │
-├── PRUEBA 2 /
-│   ├── Readme.md
-│   └── codigo prueba 2
+├── prueba-2/
+│   ├── README.md
+│   └── codigo-prueba-2.sql
 │
-├── Prueba3 /
-│   ├── Readme.md
-│   └── Prueba 3 lista
+├── prueba-3/
+│   ├── README.md
+│   └── prueba-3-lista.sql
 │
-└── Readme
+└── README.md
 ```
 
-> Los nombres de las carpetas y archivos se mantienen para conservar el trabajo realizado durante la asignatura. No se renombraron ni reorganizaron automáticamente para evitar alterar innecesariamente el historial del proyecto.
+> Los archivos usan extensión `.sql` para que GitHub detecte el lenguaje y aplique resaltado de sintaxis. El contenido se conserva tal como fue desarrollado durante la asignatura.
 
 ---
 
