@@ -23,7 +23,7 @@ El repositorio mantiene las evaluaciones como parte del historial académico, pe
 La estructura real del repositorio conserva los nombres utilizados durante el desarrollo de las evaluaciones:
 
 ```text
-Programasion-Bases-de-datos-pl-sql/
+programacion-bases-datos-plsql/
 │
 ├── prueba-1/
 │   ├── README.md
